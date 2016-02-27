@@ -31,7 +31,7 @@ var model = new jsModel(schema);
 
 
 # to do
-[] add a "validate" method that checks the "isValid" properties and returns a bool stating if the model is valid or not
-[] tests
-[] ability to add new schema types dynamically and use them in schema
-[] ability to have custom filter functions for each schema property (first name, last name) or type (int,string,email)
+- add a "validate" method that checks the "isValid" properties and returns a bool stating if the model is valid or not
+- tests
+- ability to add new schema types dynamically and use them in schema
+- ability to have custom filter functions for each schema property (first name, last name) or type (int,string,email)
